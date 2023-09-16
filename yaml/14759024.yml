@@ -1,0 +1,35 @@
+---
+id: 14759024
+name: Constellar Zubeneschamali
+type: Effect Monster
+frameType: effect
+desc: 'When this card is Normal or Special Summoned: You can add 1 "Constellar" monster
+  from your Deck to your hand.'
+atk: 2100
+def: 1400
+level: 5
+race: Machine
+attribute: LIGHT
+archetype: Constellar
+card_sets:
+- set_name: Duel Terminal 7a
+  set_code: DT07-EN022
+  set_rarity: Duel Terminal Rare Parallel Rare
+  set_rarity_code: "(DRPR)"
+  set_price: '1'
+- set_name: 'Hidden Arsenal 7: Knight of Stars'
+  set_code: HA07-EN009
+  set_rarity: Secret Rare
+  set_rarity_code: "(ScR)"
+  set_price: '1.62'
+card_images:
+- id: 14759024
+  image_url: https://images.ygoprodeck.com/images/cards/14759024.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/14759024.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/14759024.jpg
+card_prices:
+- cardmarket_price: '0.51'
+  tcgplayer_price: '0.54'
+  ebay_price: '1.45'
+  amazon_price: '1.30'
+  coolstuffinc_price: '0.49'
